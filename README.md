@@ -20,3 +20,6 @@ The main packages used are numpy, pandas, matplotlib, seaborn and sklearn.
 Link: https://bangalore-house-pricing.herokuapp.com/
 
   
+ BangaloreHousePricePredictionHeroku.JPG
+
+ ![Uploading image.png…]()
