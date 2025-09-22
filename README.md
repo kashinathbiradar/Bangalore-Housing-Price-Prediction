@@ -1,3 +1,4 @@
+# Bangalore-Housing-Price-Prediction
 
 ## Project Objectives :
 The objective of the project is to create a machine learning model. We are doing a supervised learning and our aim is to do predictive analysis to predict housing price.
@@ -20,5 +21,9 @@ Link: https://bangalore-house-pricing.herokuapp.com/
 <img width="1349" height="613" alt="image" src="https://github.com/user-attachments/assets/3f2c55ad-d78c-4a2b-8b0d-d2d5e9db39a0" /># Bangalore-Housing-Price-Prediction
 
 
+## Future Scope :
+   Use multiple Algorithms
+   Optimize Flask app.py
+   Update the Front-End
 
 
