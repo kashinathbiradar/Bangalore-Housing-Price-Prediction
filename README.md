@@ -1,4 +1,4 @@
-# Bangalore-Housing-Price-Prediction
+<img width="1349" height="613" alt="image" src="https://github.com/user-attachments/assets/3f2c55ad-d78c-4a2b-8b0d-d2d5e9db39a0" /># Bangalore-Housing-Price-Prediction
 
 
 ## Project Objectives :
@@ -19,7 +19,8 @@ The main packages used are numpy, pandas, matplotlib, seaborn and sklearn.
  
 Link: https://bangalore-house-pricing.herokuapp.com/
 
-  
- BangaloreHousePricePredictionHeroku.JPG
+BangaloreHousePricePredictionHeroku..JPG
 
- ![Uploading image.png…]()
+
+
+
