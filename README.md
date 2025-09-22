@@ -1,6 +1,5 @@
 # Bangalore-Housing-Price-Prediction
-  MLRegression
-
+  https://camo.githubusercontent.com/49aaf6266edc97c55ce18f3857a99520ec750c81df091d1db4a13dfb9683f748/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d4c2d52656772657373696f6e2d626c75652e737667
 
 
 ## Project Objectives :
